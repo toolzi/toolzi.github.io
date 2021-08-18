@@ -1,0 +1,71 @@
+
+
+.slick-dots > li > button{
+    display: none;
+}
+
+#section01 .icon{
+    position: absolute;
+    left: 50px;
+    top: 60px;
+    width: 165px;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+#section01 .logo{
+    position: absolute;
+    right: 160px;
+    top: 110px;
+    z-index: 99999;
+    cursor: pointer;
+}
+#mega{
+    width: 220px;
+    height: 100vh;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 1000;
+    background: white;
+    transform:translateX(100%);
+    transition:all 1s;
+}
+
+#mega.on{
+    transform:translateX(0);
+}
+#mega .sns_btn{
+    position: absolute;
+    right: 0;
+    top: 50px;
+}
+#mega .category{
+    width: 68px;
+    height: 257px;
+    position: absolute;
+    left: 25px;
+    top: 40%;
+}
+
+#mega .text{
+    margin: 32px;
+}
+
+
+
+
+
+#footer {
+    height: 422px;
+    position: relative;
+    left: 0;
+    bottom: 0;
+}
+
+
+
+
+

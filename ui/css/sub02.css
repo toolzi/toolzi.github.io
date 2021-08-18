@@ -1,0 +1,364 @@
+#section01{
+    height: 980px;
+    position: relative;
+    overflow: hidden
+}
+
+#section01 .list02 .back_ground{
+    height: 980px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#section01 .list02 .main_img{
+    position: absolute;
+    right: 0;
+    bottom: -15px;
+}
+#section01 .list02 .text{
+    position: absolute;
+    left: 248px;
+    top: 400px;
+}
+#section01 .list02 .text .title{
+    margin-bottom: 115px;
+}
+#section01 .list02 .text .title_text{
+    margin-bottom: 40px;
+}
+
+#section01 .list02 .text .btn{
+    width: 280px;
+    height: 47px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/*-----------------section01 end--------------------*/
+
+#section02{
+    height: 545px;
+    position: relative;
+}
+#section02 .img_container01{
+    width: 1230px;
+    height: 174px;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    left: 50%;
+    top: 65%;
+    transform: translate(-50%,-50%);
+}
+#section02 .img01_container,
+#section02 .img02_container{
+    width: 520px;
+    height: 150px;
+    position: relative;
+}
+#section02 .img01_container{
+    left: 27px;
+}
+#section02 .img01_container .img01,
+#section02 .img02_container .img02{
+    position: absolute;
+    top: 50%;
+    transform: translate(0,-50%);
+    cursor: pointer;
+}
+#section02 .img01_container .img01{
+    position: absolute;
+    left: 40px;
+}
+#section02 .img01_container .name01{
+    position: absolute;
+    right: 130px;
+    top: 12px;
+}
+#section02 .img01_container .text01{
+    position: absolute;
+    left: 252px;
+    bottom: 5px;
+}
+
+#section02 .bar{
+    margin-right: 65px;
+}
+
+
+#section02 .img02_container .name02{
+    position: absolute;
+    right: -4px;
+    top: 13px;
+}
+#section02 .img02_container .text01{
+    position: absolute;
+    left: 339px;
+    bottom: 5px;
+}
+#section02 .img_container01 .btn{
+    width: 1435px;
+    height: 174px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+/*-------------section02 end--------------*/
+
+#section03{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    pointer-events: none;
+}
+
+.scroll_container{
+    width: 100vw;
+    height: 100vh;
+
+}
+.scroll_inner{
+    width: 9430px;
+    height: 100vh;
+
+}
+
+.scroll_inner .page{
+    float: left;
+    position: relative;
+    height: 100vh;
+}
+.scroll_inner .page01{
+    width: 1520px;
+}
+
+#section03 .page01_container{
+    width: 1520px;
+    height: 580px;
+    position: absolute;
+    left: 240px;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+
+#section03 .page01 .small_img{
+    width: 50px;
+    height: 575px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#section03 .page01 .img01{
+    position: absolute;
+    left: 272px;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+#section03 .page01 .text_container{
+    width: 460px;
+    height: 435px;
+    position: absolute;
+    right: 200px;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+
+#section03 .page01 .text_container .name01{
+    margin-bottom: 180px;
+}
+#section03 .page01 .text_container .text{
+    margin-bottom: 60px;
+}
+#section03 .page01 .text_container .scroll {
+    position: absolute;
+    left: 13px;
+}
+
+
+#section03 .page02{
+    width: 1520px;
+}
+#section03 .page02 .container_01{
+    position: absolute;
+    left: 290px;
+    top: 50%;
+    transform: translate(0,-50%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1089px;
+    height: 374px;
+}
+
+#section03 .page02 .list01{
+    position: absolute;
+    left: 650px;
+    bottom: 235px;
+}
+
+#section03 .page03{
+    width: 1018px;
+}
+#section03 .page03 .container_02{
+    width: 808px;
+    height: 636px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+#section03 .page03 .container_02 .list02{
+    margin-top: 220px;
+}
+
+#section03 .page04{
+    width: 1180px;
+}
+
+#section03 .page04 .back_title{
+    position: absolute;
+    left: 50px;
+    bottom: 270px;
+}
+
+#section03 .page04 .container_03{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translate(0,-50%);
+    width: 1095px;
+    height: 555px;
+    /*display: flex;*/
+    /*justify-content: space-between;*/
+    /*align-items: center;*/
+}
+#section03 .page04 .container_03 .img03{
+    position: absolute;
+    left: 0;
+}
+
+#section03 .page04 .container_03 .list03{
+    position: absolute;
+    right: 3px;
+    bottom: 50px;
+}
+
+
+
+#section03 .page05{
+    width: 1325px;
+
+}
+#section03 .page05 .container_04{
+    position: absolute;
+    left: 0;
+    top: 80px;
+    width: 1084px;
+    height: 627px;
+}
+#section03 .page05 .container_04 .img04{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#section03 .page05 .container_04 .list04{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+
+#section03 .page06{
+    width: 1557px;
+}
+#section03 .page06 .container_05{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translate(0,-50%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1317px;
+    height: 446px;
+}
+#section03 .page06 .list05{
+    position: absolute;
+    left: 0;
+    bottom: 185px;
+}
+
+#section03 .page07{
+    width: 1300px;
+}
+#section03 .page07 .container_06{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translate(0,-50%);
+    width: 838px;
+    height: 675px;
+}
+#section03 .page07 .container_06 .img06{
+    position: absolute;
+    left: 0;
+}
+#section03 .page07 .container_06 .list06{
+    position: absolute;
+    left: 112px;
+    bottom: 46px;
+}
+#section03 .page07 .back_btn{
+    position: absolute;
+    right: 150px;
+    top: 50%;
+    transform: translate(0,-50%);
+    cursor: pointer;
+}
+
+
+
+#section03 .scroll_down_btn{
+    position: absolute;
+    right: 200px;
+    bottom: 118px;
+    cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

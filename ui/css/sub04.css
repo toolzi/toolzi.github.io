@@ -1,0 +1,347 @@
+#section01 {
+  position: relative;
+  height: 980px;
+}
+#section01 .background {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+#section01 .title_container {
+  width: 660px;
+  height: 298px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translate(0, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#section01 .title_container .small_box {
+  position: absolute;
+  left: 150px;
+  width: 358px;
+  height: 222px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+#section01 .title_container .btn {
+  width: 273px;
+  height: 47px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/*---------section 01 end---------------------------*/
+
+#section02 {
+  height: 545px;
+  position: relative;
+}
+
+#section02 .img_container01 {
+  width: 1230px;
+  height: 174px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#section02 .img01_container,
+#section02 .img02_container,
+#section02 .img03_container {
+  width: 255px;
+  height: 166px;
+  position: relative;
+}
+#section02 .img01_container .img01,
+#section02 .img02_container .img02,
+#section02 .img03_container .img03 {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translate(0, -50%);
+  cursor: pointer;
+}
+#section02 .img01_container .name01,
+#section02 .img02_container .name02,
+#section02 .img03_container .name03 {
+  position: absolute;
+  right: 0;
+  top: 13px;
+}
+#section02 .text01 {
+  position: absolute;
+  left: 150px;
+  bottom: 15px;
+}
+
+#section02 .img03_container .name03 {
+  position: absolute;
+  right: 17px;
+}
+
+#section02 .img_container01 .btn {
+  width: 1435px;
+  height: 174px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+/*-----------------------section02 end-------------------------------*/
+
+#section03 {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  pointer-events: none;
+}
+
+.scroll_container {
+  width: 100vw;
+  height: 100vh;
+}
+.scroll_inner {
+  width: 9620px;
+  height: 100vh;
+}
+
+.scroll_inner .page {
+  float: left;
+  position: relative;
+  height: 100vh;
+}
+
+#section03 .page01 {
+  width: 1800px;
+}
+
+#section03 .page01_container {
+  width: 1520px;
+  height: 580px;
+  position: absolute;
+  left: 240px;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+
+#section03 .page01 .small_img {
+  width: 50px;
+  height: 575px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#section03 .page01 .img01 {
+  position: absolute;
+  left: 310px;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+
+#section03 .page01 .text_container {
+  width: 460px;
+  height: 435px;
+  position: absolute;
+  right: 200px;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+
+#section03 .page01 .text_container .name {
+  margin-bottom: 180px;
+}
+#section03 .page01 .text_container .text {
+  margin-bottom: 60px;
+}
+
+#section03 .page02 {
+  width: 1427px;
+}
+#section03 .page02 .page02_container {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translate(0, -50%);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1230px;
+  height: 432px;
+}
+
+#section03 .page03 {
+  width: 1174px;
+}
+
+#section03 .page03 .page03_container {
+  width: 1084px;
+  height: 440px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+#section03 .page03 .page03_container .back_title {
+  position: absolute;
+  left: 300px;
+  bottom: 0;
+}
+#section03 .page03 .page03_container .img02 {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+#section03 .page03 .page03_container .bar02 {
+  position: absolute;
+  left: 670px;
+  top: 260px;
+}
+#section03 .page03 .page03_container .list02 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+#section03 .page04 {
+  width: 1018px;
+}
+
+#section03 .page04 .page04_container {
+  width: 785px;
+  height: 528px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translate(0, -50%);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#section03 .page04 .page04_container .bar02 {
+  margin-left: 14px;
+}
+
+#section03 .page04 .page04_container .img03 .list03 {
+  margin-top: 15px;
+}
+
+#section03 .page05 {
+  width: 1326px;
+}
+
+#section03 .page05 .page05_container {
+  width: 1131px;
+  height: 486px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+#section03 .page05 .page05_container .img04 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+#section03 .page05 .page05_container .list04 {
+  position: absolute;
+  right: 0;
+  bottom: 79px;
+}
+
+#section03 .page06 {
+  width: 1252px;
+}
+#section03 .page06 .page06_container {
+  width: 1070px;
+  height: 573px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+#section03 .page06 .page06_container .img05 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+#section03 .page06 .page06_container .list05 {
+  position: absolute;
+  right: 0;
+  bottom: 112px;
+}
+
+#section03 .page07 {
+  width: 1623px;
+}
+#section03 .page07 .page07_container {
+  width: 1172px;
+  height: 684px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translate(0, -50%);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#section03 .page07 .page07_container .list06 {
+  margin-top: 15px;
+  margin-left: 5px;
+}
+#section03 .page07 .back_btn {
+  position: absolute;
+  right: 110px;
+  top: 50%;
+  transform: translate(0, -50%);
+  cursor: pointer;
+}
+
+#section03 .scroll_down_btn {
+  position: absolute;
+  right: 200px;
+  bottom: 150px;
+  cursor: pointer;
+}
+
+/*----------------section 03 end -------------------------------*/
+
+#section04 {
+  height: 517px;
+  position: relative;
+}
+#section04 .img {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+#section04 .sec04_title_container {
+  width: 377px;
+  height: 330px;
+  position: absolute;
+  left: 260px;
+  top: 50%;
+  transform: translate(0, -50%);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+#section04 .sec04_title_container .title {
+  margin-bottom: 75px;
+}

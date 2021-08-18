@@ -1,0 +1,484 @@
+#section01{
+    height: 980px;
+    position: relative;
+}
+
+#section01 .list03 .main_img{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+#section01 .list03 .text {
+    position: absolute;
+    left: 235px;
+    top: 360px;
+}
+#section01 .list03 .text .title{
+    margin-bottom: 78px;
+}
+#section01 .list03 .text .title_text{
+    margin-bottom: 44px;
+}
+
+#section01 .list03 .text .btn{
+    width: 320px;
+    height: 47px;
+    display: flex;
+    justify-content: space-between;
+}
+/*---------------------------section01 end----------------------*/
+
+#section02{
+    height: 545px;
+    position: relative;
+}
+
+#section02 .img_container01{
+    width: 1230px;
+    height: 174px;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%,-50%);
+}
+
+#section02 .img_container01 .btn{
+    width: 1435px;
+    height: 174px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#section02 .img01_container,
+#section02 .img02_container,
+#section02 .img03_container{
+    width: 255px;
+    height: 166px;
+    position: relative;
+    cursor: pointer;
+}
+#section02 .img01_container .img01,
+#section02 .img02_container .img02,
+#section02 .img03_container .img03{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+#section02 .img01_container .name01,
+#section02 .img03_container .name03{
+    position: absolute;
+    right: 0;
+    top: 13px;
+}
+#section02 .img01_container .text01,
+#section02 .img03_container .text02{
+    position: absolute;
+    left: 120px;
+    bottom: 15px;
+}
+#section02 .img02_container .name02{
+    position: absolute;
+    right: -4px;
+    top: 13px;
+}
+#section02 .img02_container .text02{
+    position: absolute;
+    left: 155px;
+    bottom: 15px;
+}
+#section02 .img03_container .name03{
+    position: absolute;
+    right: 55px;
+    top: 13px;
+}
+
+/*----------------------section02 end-----------------------*/
+#section03{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    pointer-events: none;
+
+}
+
+.scroll_container{
+    width: 100vw;
+    height: 100vh;
+
+}
+.scroll_inner{
+    width: 10730px;
+    height: 100vh;
+
+}
+
+.scroll_inner .page{
+    float: left;
+    position: relative;
+    height: 100vh;
+}
+
+
+.scroll_inner .page01{
+    width: 1754px;
+}
+
+#section03 .page01 .depth{
+    width: 1340px;
+    height: 568px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#section03 .page01 .small_img{
+    width: 50px;
+    height: 575px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+
+#section03 .page01 .img01{
+    position: absolute;
+    left: 250px;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+#section03 .page01 .text_container{
+    width: 460px;
+    height: 435px;
+    position: absolute;
+    right: 40px;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+
+#section03 .page01 .text_container .name{
+    margin-bottom: 180px;
+}
+#section03 .page01 .text_container .text{
+    margin-bottom: 60px;
+}
+
+
+
+.scroll_inner .page02{
+    width: 1510px;
+}
+
+.scroll_inner .page02 .depth{
+    width: 1340px;
+    height: 517px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translate(0,-50%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.scroll_inner .page02 .depth .back_title{
+    position: absolute;
+    left: 849px;
+    bottom: -5px;
+}
+
+.scroll_inner .page02 .img01_1{
+    margin-bottom: 120px;
+}
+
+.scroll_inner .page02 .img01 {
+    margin-right: 20px;
+}
+.scroll_inner .page02 .list01{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+
+.scroll_inner .page03{
+    width: 1000px;
+}
+
+.page03 .depth{
+    width: 835px;
+    height: 693px;
+    position: absolute;
+    left: 100px;
+    top: 50%;
+    transform: translate(0,-50%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.page03 .depth01 .text_contents{
+    width: 410px;
+    height: 197px;
+    position: absolute;
+    right: -5px;
+    top: 360px;
+    display: flex;
+    justify-content: space-between;
+}
+.page03 .depth02 .text_contents{
+    width: 300px;
+    height: 197px;
+    position: absolute;
+    right: 104px;
+    top: 360px;
+    display: flex;
+    justify-content: space-between;
+}
+.page03 .depth .text_contents .bar02{
+    margin-top: 32px;
+}
+
+
+.scroll_inner .page04{
+     width: 2296px;
+}
+.scroll_inner .page04 .depth .depth_list01{
+    width: 760px;
+    height: 639px;
+    position: absolute;
+    left: 100px;
+    top: 50%;
+    transform: translate(0,-50%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.scroll_inner .page04 .depth_list01 .text_contents01{
+    width: 326px;
+    height: 247px;
+    display: flex;
+    justify-content: space-between;
+}
+.scroll_inner .page04 .depth_list01 .text_contents01 .bar{
+    margin-top: 30px;
+}
+
+.scroll_inner .page04 .depth .depth_list02{
+    width: 1130px;
+    height: 639px;
+    position: absolute;
+    right: 120px;
+    top: 50%;
+    transform: translate(0,-50%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.scroll_inner .page04 .depth_list02 .text_contents02{
+    width: 480px;
+    height: 156px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 220px;
+}
+.scroll_inner .page04 .depth_list02 .text_contents02 .bar{
+    margin-right: 20px;
+    margin-top: 7px;
+}
+.scroll_inner .page04 .depth_list02 .text_contents02 .text03{
+    margin-right: 62px;
+}
+.scroll_inner .page05{
+    width: 1163px;
+}
+.scroll_inner .page05 .depth{
+    width: 1163px;
+    height: 602px;
+    position: absolute;
+    left: 0;
+    top: 100px;
+}
+.scroll_inner .page05 .depth .list04{
+    position: absolute;
+    right: 10px;
+    bottom: 12px;
+}
+
+.scroll_inner .page06{
+    width: 1570px;
+}
+.scroll_inner .page06 .depth .img_container01{
+    width: 1413px;
+    height: 459px;
+    position: absolute;
+    left: 100px;
+    top: 180px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.scroll_inner .page06 .depth .list05{
+    position: absolute;
+    left: 106px;
+    bottom: 215px;
+
+}
+
+
+.scroll_inner .page07{
+    width: 1433px;
+}
+.scroll_inner .page07 .depth{
+    width: 1200px;
+    height: 724px;
+    position: absolute;
+    left: 100px;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+.scroll_inner .page07 .depth .img07{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.scroll_inner .page07 .depth .img07 .list06{
+    position: absolute;
+    left: 108px;
+    bottom: 70px;
+}
+.scroll_inner .page07 .depth .back_btn{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translate(0,-50%);
+    cursor: pointer;
+}
+
+
+
+.scroll_down_btn{
+    position: absolute;
+    right: 200px;
+    bottom: 115px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+/*---------------section03 end------------------------*/
+#section04{
+    height: 490px;
+    position: relative;
+}
+#section04 .img{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+
+#section05{
+    height: 820px;
+    position: relative;
+}
+
+#section05 .title{
+    position: absolute;
+    left: 280px;
+    top: 124px;
+}
+
+#section05 .img_container02{
+    width: 1420px;
+    height: 335px;
+    position: absolute;
+    left: 50%;
+    top: 240px;
+    transform: translate(-50%,0);
+    display: flex;
+    justify-content: space-between;
+}
+#section05 .img_container02 .img_box01,
+#section05 .img_container02 .img_box02,
+#section05 .img_container02 .img_box03,
+#section05 .img_container02 .img_box04{
+    width: 205px;
+    height: 272px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#section05 .img_container02 .img01,
+#section05 .img_container02 .img02,
+#section05 .img_container02 .img03,
+#section05 .img_container02 .img04{
+    margin-bottom: 58px;
+}
+#section05 .top_btn{
+    position: absolute;
+    left: 50%;
+    bottom: 100px;
+    transform: translate(-50%,0);
+    cursor: pointer;
+}
+#section05 .top_btn .figure .triangle{
+    position: absolute;
+    right: -60px;
+    top: -40px;
+    transform: translate(-60px,88px);
+    opacity: 0;
+    transition: all 1s;
+}
+#section05 .top_btn:hover .figure .triangle{
+    transform:translate(0,0);
+    opacity: 1;
+}
+#section05 .top_btn .figure .circle{
+    position: absolute;
+    left: -30px;
+    top: -20px;
+    transform:translate(30px,30px);
+    opacity: 0;
+    transition:all 1s;
+}
+#section05 .top_btn:hover .figure .circle{
+    transform:translate(0,0);
+    opacity: 1;
+}
+#section05 .top_btn .figure .square{
+    position: absolute;
+    left: 30px;
+    bottom: -49px;
+    transform: translate(-60px,-15px);
+    opacity: 0;
+    transition: all 1s;
+}
+#section05 .top_btn:hover .figure .square{
+    transform:translate(0,0);
+    opacity: 1;
+}
+
+#front {
+    z-index: 999999;
+}
+
+#hide {
+    display: none;
+}

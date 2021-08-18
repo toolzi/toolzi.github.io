@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b25b4c4-443a-428d-a783-bdbae3f766b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectId" id="1VFD9CaMfxaIH0LSePBenFuVe8t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b25b4c4-443a-428d-a783-bdbae3f766b7" name="Default Changelist" comment="" />
+      <created>1576839795976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576839795976</updated>
+      <workItem from="1576839799078" duration="464000" />
+      <workItem from="1577016665713" duration="17000" />
+      <workItem from="1577081514568" duration="12972000" />
+      <workItem from="1577107027166" duration="1636000" />
+      <workItem from="1577110414809" duration="10493000" />
+      <workItem from="1577183938923" duration="8870000" />
+      <workItem from="1577328994393" duration="19299000" />
+      <workItem from="1577418735443" duration="878000" />
+      <workItem from="1577420367486" duration="3106000" />
+      <workItem from="1577440637153" duration="361000" />
+      <workItem from="1577447673085" duration="4219000" />
+      <workItem from="1577598869804" duration="12870000" />
+      <workItem from="1577758690617" duration="9358000" />
+      <workItem from="1577768832648" duration="3209000" />
+      <workItem from="1577785802756" duration="2365000" />
+      <workItem from="1577846920503" duration="1815000" />
+      <workItem from="1577871042491" duration="100000" />
+      <workItem from="1578830764062" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="341" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577342344021">
+      <screen x="0" y="23" width="1920" height="1129" />
+    </state>
+    <state x="698" y="341" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1129@0.23.1920.1129" timestamp="1577342344021" />
+    <state x="652" y="337" width="837" height="540" key="find.popup" timestamp="1577762395332">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="652" y="337" width="837" height="540" key="find.popup/0.23.1680.979/1680.-62.1920.1057@0.23.1680.979" timestamp="1577762395332" />
+  </component>
+</project>

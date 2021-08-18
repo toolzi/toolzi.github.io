@@ -1,0 +1,613 @@
+#section01 {
+  height: 1029px;
+}
+#main_slider {
+  width: 100vw;
+}
+#main_slider .list {
+  position: relative;
+}
+
+#main_slider .slick-dots {
+  position: absolute;
+  left: 120px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10900;
+}
+
+#main_slider .slick-dots > li {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: #000;
+  margin-bottom: 30px;
+  transition: all 1s;
+}
+
+#main_slider .slick-dots > li.slick-active {
+  height: 100px;
+  border-radius: 0;
+}
+
+#main_slider .slick-dots > li:last-child {
+  margin-bottom: 0;
+}
+
+#main_slider .list01 .main_img {
+  position: absolute;
+  right: 360px;
+  bottom: 165px;
+}
+
+#main_slider .list01 .main_img .dot {
+  position: absolute;
+  left: 50%;
+  bottom: -20px;
+  transform: translate(-50%, 0);
+}
+
+#main_slider .list01 .text {
+  position: absolute;
+  left: 369px;
+  top: 483px;
+}
+
+#main_slider .list01 .text .more_btn {
+  position: absolute;
+  left: 10px;
+  top: 274px;
+}
+
+#main_slider .list02 .main_img {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+#main_slider .list02 .text {
+  position: absolute;
+  left: 308px;
+  top: 400px;
+}
+#main_slider .list02 .text .title {
+  margin-bottom: 115px;
+}
+#main_slider .list02 .text .title_text {
+  margin-bottom: 40px;
+}
+
+#main_slider .list02 .text .btn {
+  width: 280px;
+  height: 47px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#main_slider .list03 .main_img {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+#main_slider .list03 .text {
+  position: absolute;
+  left: 320px;
+  top: 380px;
+}
+#main_slider .list03 .text .title {
+  margin-bottom: 78px;
+}
+#main_slider .list03 .text .title_text {
+  margin-bottom: 44px;
+}
+
+#main_slider .list03 .text .btn {
+  width: 320px;
+  height: 47px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/*-------------------section01 end---------------------------*/
+#section02 {
+  height: 954px;
+}
+
+#section02 .title {
+  position: absolute;
+  left: 50%;
+  top: 195px;
+  transform: translate(-50%, 0);
+}
+
+#slide_container .box {
+  position: absolute;
+  right: 235px;
+  bottom: 0;
+}
+#sub_slider {
+  width: 1155px;
+  height: 544px;
+  position: absolute;
+  left: 60px;
+  bottom: 35px;
+}
+
+#sub_slider .list {
+  position: relative;
+}
+
+#sub_slider .prev {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translate(0, -50%);
+  cursor: pointer;
+  opacity: 70%;
+}
+#sub_slider .next {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translate(0, -50%);
+  cursor: pointer;
+  opacity: 70%;
+}
+#section02 .text {
+  position: absolute;
+  left: 150px;
+  bottom: 168px;
+}
+#section02 .text .btn {
+  position: absolute;
+  right: 12px;
+  bottom: -120px;
+  cursor: pointer;
+}
+#section02 .text .btn .bar {
+  position: absolute;
+  left: 50%;
+  top: 25px;
+  transform: translate(-50%, 0);
+}
+
+#section02 .text .btn .figure .triangle {
+  position: absolute;
+  right: 50px;
+  top: -55px;
+  transform: translate(-60px, 88px);
+  opacity: 0;
+  transition: all 1s;
+}
+#section02 .text .btn:hover .figure .triangle {
+  transform: translate(0, 0);
+  opacity: 1;
+}
+#section02 .text .btn .figure .circle {
+  position: absolute;
+  left: -30px;
+  top: -20px;
+  transform: translate(30px, 30px);
+  opacity: 0;
+  transition: all 1s;
+}
+#section02 .text .btn:hover .figure .circle {
+  transform: translate(0, 0);
+  opacity: 1;
+}
+#section02 .text .btn .figure .square {
+  position: absolute;
+  left: 30px;
+  bottom: -64px;
+  transform: translate(-60px, 9px);
+  opacity: 0;
+  transition: all 1s;
+}
+#section02 .text .btn:hover .figure .square {
+  transform: translate(0, 0);
+  opacity: 1;
+}
+/*-------------------section03 end ------------------------*/
+
+#section03 {
+  height: 820px;
+}
+#section03 .sec03_title {
+  position: absolute;
+  left: 0;
+  top: 260px;
+}
+#section03 .video_container {
+  position: absolute;
+  width: 1920px;
+  height: 465px;
+  top: 290px;
+  overflow: hidden;
+}
+
+#section03 .video_container .video01 {
+  position: absolute;
+  left: 0;
+  top: -30px;
+}
+#section03 .video_container .video01 .play_btn01 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+  cursor: pointer;
+}
+#section03 .video_container .video02 {
+  position: absolute;
+  right: 0;
+  top: -30px;
+}
+#section03 .video_container .video02 .play_btn02 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 999999;
+  cursor: pointer;
+}
+/*-----------------section03 end-------------------------*/
+
+#section04 {
+  height: 925px;
+}
+#section04 .title {
+  position: absolute;
+  left: 50%;
+  top: 103px;
+  transform: translate(-50%, 0);
+}
+#section04 .title .big_title {
+  margin-bottom: 20px;
+}
+#section04 .title .small_title {
+  position: absolute;
+  left: 50%;
+  top: 40px;
+  transform: translate(-50%, 0);
+}
+
+#section04 .search {
+  position: absolute;
+  right: 208px;
+  top: 140px;
+}
+#section04 .img_container {
+  width: 1380px;
+  height: 440px;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  position: absolute;
+  left: 50%;
+  top: 250px;
+  transform: translate(-50%, 0);
+}
+
+#section04 .img_container .text_01 {
+  position: absolute;
+  left: 20px;
+  bottom: 0;
+  width: 182px;
+}
+#section04 .img_container .text_01 .color01 {
+  position: absolute;
+  left: 50%;
+  top: -140px;
+  transform: translate(-50%, 0);
+}
+#section04 .img_container .text_01 .name01 {
+  position: absolute;
+  left: 50%;
+  top: -60px;
+  transform: translate(-50%, 0);
+}
+#section04 .img_container .text_01 .name01_1 {
+  position: absolute;
+  left: 50%;
+  top: -30px;
+  transform: translate(-50%, 0);
+}
+
+#section04 .img_container .text_02 {
+  position: absolute;
+  left: 410px;
+  bottom: 0;
+  width: 182px;
+}
+#section04 .img_container .text_02 .color02 {
+  position: absolute;
+  left: 50%;
+  top: -140px;
+  transform: translate(-50%, 0);
+}
+#section04 .img_container .text_02 .name02 {
+  position: absolute;
+  left: 50%;
+  top: -60px;
+  transform: translate(-50%, 0);
+}
+#section04 .img_container .text_02 .name02_2 {
+  position: absolute;
+  left: 50%;
+  top: -30px;
+  transform: translate(-50%, 0);
+}
+
+#section04 .img_container .text_03 {
+  position: absolute;
+  right: 410px;
+  bottom: 0;
+  width: 182px;
+}
+#section04 .img_container .text_03 .color03 {
+  position: absolute;
+  left: 50%;
+  top: -140px;
+  transform: translate(-50%, 0);
+}
+#section04 .img_container .text_03 .name03 {
+  position: absolute;
+  left: 50%;
+  top: -60px;
+  transform: translate(-50%, 0);
+}
+
+#section04 .img_container .text_03 .name03_3 {
+  position: absolute;
+  left: 50%;
+  top: -30px;
+  transform: translate(-50%, 0);
+}
+#section04 .img_container .text_04 {
+  position: absolute;
+  right: 24px;
+  bottom: 0;
+  width: 182px;
+}
+#section04 .img_container .text_04 .color04 {
+  position: absolute;
+  left: 50%;
+  top: -140px;
+  transform: translate(-50%, 0);
+}
+#section04 .img_container .text_04 .name04 {
+  position: absolute;
+  left: 50%;
+  top: -60px;
+  transform: translate(-50%, 0);
+}
+
+#section04 .img_container .text_04 .name04_4 {
+  position: absolute;
+  left: 50%;
+  top: -30px;
+  transform: translate(-50%, 0);
+}
+#section04 .btn {
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+#section04 .btn .pre_btn {
+  position: absolute;
+  left: 125px;
+}
+#section04 .btn .next_btn {
+  position: absolute;
+  left: 1730px;
+}
+
+#section04 .more_btn {
+  position: absolute;
+  left: 50%;
+  bottom: 115px;
+  transform: translate(-50%, 0);
+  cursor: pointer;
+}
+#section04 .more_btn .bar {
+  position: absolute;
+  left: 50%;
+  top: 23px;
+  transform: translate(-50%, 0);
+}
+#section04 .more_btn .figure .triangle {
+  position: absolute;
+  right: -60px;
+  top: -35px;
+  transform: translate(-60px, 88px);
+  opacity: 0;
+  transition: all 1s;
+}
+#section04 .more_btn:hover .figure .triangle {
+  transform: translate(0, 0);
+  opacity: 1;
+}
+#section04 .more_btn .figure .circle {
+  position: absolute;
+  left: -30px;
+  top: -20px;
+  transform: translate(30px, 30px);
+  opacity: 0;
+  transition: all 1s;
+}
+#section04 .more_btn:hover .figure .circle {
+  transform: translate(0, 0);
+  opacity: 1;
+}
+#section04 .more_btn .figure .square {
+  position: absolute;
+  left: 30px;
+  bottom: -64px;
+  transform: translate(-60px, 9px);
+  opacity: 0;
+  transition: all 1s;
+}
+#section04 .more_btn:hover .figure .square {
+  transform: translate(0, 0);
+  opacity: 1;
+}
+
+/*--------------------section04 end----------------*/
+
+#section05 {
+  height: 1071px;
+}
+#section05 .img_container {
+  display: flex;
+  flex: 1 1;
+  justify-content: space-between;
+}
+
+#section05 .img_container > div {
+  position: relative;
+}
+
+#section05 .img_container > div:after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0);
+  transition: all 0.5s;
+}
+
+#section05 .img_container > div:hover:after {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+#section05 .img_container .img01 .text {
+  position: absolute;
+  left: 40px;
+  top: 60px;
+  z-index: 100;
+}
+#section05 .img_container .img01 .review_btn {
+  position: absolute;
+  left: 60px;
+  bottom: 100px;
+  z-index: 100;
+}
+#section05 .img_container .img02 .text {
+  position: absolute;
+  left: 45px;
+  top: 60px;
+}
+#section05 .img_container .img02 .review_btn {
+  position: absolute;
+  left: 65px;
+  bottom: 100px;
+}
+#section05 .img_container .img03 .text {
+  position: absolute;
+  right: 290px;
+  top: 60px;
+}
+#section05 .img_container .img03 .review_btn {
+  position: absolute;
+  right: 310px;
+  bottom: 100px;
+}
+#section05 .img_container .img04 .text {
+  position: absolute;
+  right: 235px;
+  top: 60px;
+}
+#section05 .img_container .img04 .review_btn {
+  position: absolute;
+  right: 302px;
+  bottom: 100px;
+}
+
+/*---------------------section05 end-------------------------*/
+
+#section06 {
+  height: 480px;
+}
+#section06 .title {
+  position: absolute;
+  left: 50%;
+  top: 130px;
+  transform: translate(-50%, 0);
+}
+#section06 .title .small_title {
+  position: absolute;
+  left: 50%;
+  top: 45px;
+  transform: translate(-50%, 0);
+}
+
+#section06 .text_field {
+  position: absolute;
+  left: 50%;
+  top: 110px;
+  transform: translate(-50%, 0);
+}
+
+#txt {
+  width: 700px;
+  height: 50px;
+  background: #f4f4f4;
+  border-radius: 30px;
+  font-size: 17px;
+  border: 0;
+  text-indent: 30px;
+}
+
+#section06 .search_btn {
+  cursor: pointer;
+  position: absolute;
+  right: 20px;
+  top: 14px;
+  background: #f4f4f4;
+  border: 0;
+}
+#section06 .top_btn {
+  position: absolute;
+  left: 50%;
+  bottom: 80px;
+  transform: translate(-50%, 0);
+  cursor: pointer;
+}
+#section06 .top_btn .figure .triangle {
+  position: absolute;
+  right: -60px;
+  top: -40px;
+  transform: translate(-60px, 88px);
+  opacity: 0;
+  transition: all 1s;
+}
+#section06 .top_btn:hover .figure .triangle {
+  transform: translate(0, 0);
+  opacity: 1;
+}
+#section06 .top_btn .figure .circle {
+  position: absolute;
+  left: -30px;
+  top: -20px;
+  transform: translate(30px, 30px);
+  opacity: 0;
+  transition: all 1s;
+}
+#section06 .top_btn:hover .figure .circle {
+  transform: translate(0, 0);
+  opacity: 1;
+}
+#section06 .top_btn .figure .square {
+  position: absolute;
+  left: 30px;
+  bottom: -49px;
+  transform: translate(-60px, -15px);
+  opacity: 0;
+  transition: all 1s;
+}
+#section06 .top_btn:hover .figure .square {
+  transform: translate(0, 0);
+  opacity: 1;
+}

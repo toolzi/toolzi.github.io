@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc5a72f7-71cd-4a78-acc8-463b865b9ced" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Ubf53a3iEOfNeGf5I7bXRyicR1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc5a72f7-71cd-4a78-acc8-463b865b9ced" name="Default Changelist" comment="" />
+      <created>1575630028992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575630028992</updated>
+      <workItem from="1575630033330" duration="1002000" />
+      <workItem from="1575634037773" duration="3552000" />
+      <workItem from="1575697605769" duration="5945000" />
+      <workItem from="1575794681128" duration="7887000" />
+      <workItem from="1575864183958" duration="2594000" />
+      <workItem from="1575868328444" duration="741000" />
+      <workItem from="1575971618436" duration="2655000" />
+      <workItem from="1575979980266" duration="4004000" />
+      <workItem from="1575984408080" duration="279000" />
+      <workItem from="1575985217240" duration="6111000" />
+      <workItem from="1576051818748" duration="7759000" />
+      <workItem from="1576228653933" duration="1196000" />
+      <workItem from="1576235461836" duration="5937000" />
+      <workItem from="1576305563030" duration="9568000" />
+      <workItem from="1576398639776" duration="22318000" />
+      <workItem from="1576571435992" duration="993000" />
+      <workItem from="1576578845772" duration="259000" />
+      <workItem from="1576586993569" duration="2145000" />
+      <workItem from="1576656256100" duration="8835000" />
+      <workItem from="1576815449900" duration="9313000" />
+      <workItem from="1576836581939" duration="1019000" />
+      <workItem from="1577014090171" duration="1844000" />
+      <workItem from="1577419658904" duration="425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="182" key="#Inspections" timestamp="1576058569294">
+      <screen x="0" y="23" width="1680" height="987" />
+    </state>
+    <state x="440" y="182" key="#Inspections/0.23.1680.987@0.23.1680.987" timestamp="1576058569294" />
+    <state x="0" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576235633110">
+      <screen x="0" y="23" width="1920" height="1129" />
+    </state>
+    <state x="0" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1575630334324" />
+    <state x="0" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1129@0.23.1920.1129" timestamp="1576235633110" />
+    <state x="214" y="125" key="SettingsEditor" timestamp="1576235764942">
+      <screen x="0" y="23" width="1920" height="1129" />
+    </state>
+    <state x="187" y="95" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1575630751282" />
+    <state x="214" y="125" key="SettingsEditor/0.23.1920.1129@0.23.1920.1129" timestamp="1576235764942" />
+    <state x="591" y="393" key="com.intellij.ide.util.TipDialog" timestamp="1576571444733">
+      <screen x="0" y="23" width="1920" height="1129" />
+    </state>
+    <state x="394" y="261" key="com.intellij.ide.util.TipDialog/0.23.1280.726/1280.23.1920.1057@0.23.1280.726" timestamp="1575794692510" />
+    <state x="517" y="343" key="com.intellij.ide.util.TipDialog/0.23.1680.976@0.23.1680.976" timestamp="1575697607211" />
+    <state x="591" y="393" key="com.intellij.ide.util.TipDialog/0.23.1920.1129@0.23.1920.1129" timestamp="1576571444733" />
+    <state x="210" y="23" width="1082" height="979" key="find.popup" timestamp="1576819757617">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="228" y="23" width="824" height="726" key="find.popup/0.23.1280.726/1280.23.1920.1057@0.23.1280.726" timestamp="1575802952684" />
+    <state x="160" y="23" width="824" height="737" key="find.popup/0.23.1280.737/1280.23.1920.1057@0.23.1280.737" timestamp="1576046295902" />
+    <state x="210" y="23" width="1082" height="979" key="find.popup/0.23.1680.979/1680.-62.1920.1057@0.23.1680.979" timestamp="1576819757617" />
+    <state x="231" y="274" width="766" height="727" key="search.everywhere.popup" timestamp="1576587217617">
+      <screen x="0" y="23" width="1920" height="1129" />
+    </state>
+    <state x="202" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1575630567966" />
+    <state x="231" y="274" width="766" height="727" key="search.everywhere.popup/0.23.1920.1129@0.23.1920.1129" timestamp="1576587217617" />
+  </component>
+</project>
