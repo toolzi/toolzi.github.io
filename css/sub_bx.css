@@ -1,0 +1,124 @@
+#section05 {
+  position: relative;
+}
+#section05 .video01 {
+  position: absolute;
+  height: 563px;
+  width: 1111px;
+  overflow: hidden;
+  left: 416px;
+  top: 180px;
+}
+#section05 .site_btn {
+  position: absolute;
+  right: 413px;
+  top: 122px;
+  cursor: pointer;
+}
+/* --------------section05 end------------ */
+
+#section06 {
+  position: relative;
+}
+#section06 .video02 {
+  position: absolute;
+  width: 1063px;
+  height: 545px;
+  overflow: hidden;
+  left: 277px;
+  top: 282px;
+}
+/* --------------section06 end------------ */
+
+#section08 {
+  position: relative;
+}
+
+#section08 .video03 {
+  position: absolute;
+  width: 1063px;
+  height: 544px;
+  overflow: hidden;
+  left: 584px;
+  top: 262px;
+}
+/* --------------section08 end------------ */
+
+#section11 {
+  position: relative;
+}
+#section11 .video04 {
+  position: absolute;
+  height: 590px;
+  width: 1150px;
+  overflow: hidden;
+  left: 409px;
+  top: 216px;
+}
+#section11 .site_btn {
+  position: absolute;
+  right: 380px;
+  top: 162px;
+  cursor: pointer;
+}
+/* --------------section11 end------------ */
+
+#section14 {
+  position: relative;
+}
+#section14 .video05 {
+  position: absolute;
+  height: 544px;
+  width: 1063px;
+  overflow: hidden;
+  left: 602px;
+  top: 269px;
+}
+
+/* --------------section14 end------------ */
+#section15 {
+  position: relative;
+}
+#section15 .slide {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  animation: slide 15s 1s infinite linear alternate;
+}
+
+@keyframes slide {
+  frome {
+    left: 0;
+  }
+  to {
+    left: -3500px;
+  }
+}
+/* --------------section15 end ------------------ */
+#section16 {
+  position: relative;
+}
+#section16 .video06 {
+  position: absolute;
+  width: 1063px;
+  height: 544px;
+  overflow: hidden;
+  left: 281px;
+  top: 253px;
+}
+/* --------------section18 end ------------------ */
+
+#section19 {
+  position: relative;
+}
+#section19 .btn {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#section19 .home_btn {
+  top: 46%;
+}
+#section19 .web_btn {
+  top: 54%;
+}

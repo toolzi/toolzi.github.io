@@ -1,0 +1,54 @@
+#section07 {
+  position: relative;
+}
+#section07 .video01 {
+  position: absolute;
+  left: 965px;
+  top: -115px;
+  width: 374px;
+  height: 802px;
+  overflow: hidden;
+  border-radius: 50px;
+}
+/* ---------------section07 end--------------- */
+
+#section08 {
+  position: relative;
+}
+#section08 .video02 {
+  position: absolute;
+  left: 802px;
+  top: 102px;
+  width: 374px;
+  height: 799px;
+  overflow: hidden;
+  border-radius: 50px;
+}
+/* ---------------section08 end--------------- */
+
+#section10 {
+  position: relative;
+}
+#section10 .video03 {
+  position: absolute;
+  left: 515px;
+  top: -104px;
+  width: 374px;
+  height: 806px;
+  overflow: hidden;
+}
+/* ---------------section10 end--------------- */
+
+#section14 {
+  position: relative;
+}
+#section14 .video04 {
+  position: absolute;
+  left: 634px;
+  top: 79px;
+  width: 377px;
+  height: 800px;
+  overflow: hidden;
+  border-radius: 50px;
+}
+/* --------------section14 end------------------- */

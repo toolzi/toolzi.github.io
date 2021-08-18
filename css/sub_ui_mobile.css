@@ -1,0 +1,138 @@
+#section02 {
+  position: relative;
+}
+#section02 .video01 {
+  position: absolute;
+  left: 412px;
+  top: 108px;
+  width: 360px;
+  height: 761px;
+  overflow: hidden;
+  border-radius: 35px;
+}
+/* ------------section02 end------------- */
+#section05 {
+  position: relative;
+}
+#section05 .video02 {
+  position: absolute;
+  left: 917px;
+  top: 106px;
+  width: 375px;
+  height: 799px;
+  overflow: hidden;
+  border-radius: 35px;
+}
+/* -----------section05 end------------ */
+
+#section06 {
+  position: relative;
+}
+#section06 .video03 {
+  position: absolute;
+  left: 825px;
+  top: 504px;
+  width: 375px;
+  height: 798px;
+  overflow: hidden;
+  border-radius: 35px;
+}
+/* --------------section06 end----------------- */
+
+#section08 {
+  position: relative;
+}
+#section08 .video04 {
+  position: absolute;
+  left: 1128px;
+  top: 105px;
+  width: 374px;
+  height: 799px;
+  overflow: hidden;
+  border-radius: 35px;
+}
+/* ------------------section08 end--------------- */
+
+#section09 {
+  position: relative;
+}
+#section09 .video05 {
+  position: absolute;
+  left: 386px;
+  top: 95px;
+  width: 375px;
+  height: 799px;
+  overflow: hidden;
+  border-radius: 35px;
+}
+/* ------------------section09 end---------------- */
+#section10 {
+  position: relative;
+}
+#section10 .slide {
+  position: absolute;
+  left: 100px;
+  bottom: 149px;
+  animation: slide 10s 1s infinite linear alternate;
+}
+
+@keyframes slide {
+  frome {
+    left: 30px;
+  }
+  to {
+    left: -1000px;
+  }
+}
+
+/* -------------section10 end----------------------- */
+#section11 {
+  position: relative;
+}
+#section11 .pre_btn {
+  position: absolute;
+  left: 860px;
+  top: 442px;
+  transition: all 0.1s;
+  cursor: pointer;
+}
+
+#section11 .pre_btn:hover {
+  background-color: #009ae0;
+}
+
+#section11 .circle01 {
+  position: absolute;
+  left: 226px;
+  top: -7px;
+}
+
+#section11 .circle {
+  width: 9px;
+  height: 9px;
+  background: black;
+  border-radius: 50%;
+  transition: all 0.1s;
+}
+
+#section11 .btn:hover .circle {
+  width: 10px;
+  height: 10px;
+  background: #009ae0;
+}
+
+#section11 .website_btn {
+  position: absolute;
+  left: 886px;
+  top: 523px;
+  transition: all 0.1s;
+  cursor: pointer;
+}
+#section11 .website_btn:hover {
+  background-color: #009ae0;
+}
+#section11 .circle02 {
+  position: absolute;
+  left: 171px;
+  top: -5px;
+}

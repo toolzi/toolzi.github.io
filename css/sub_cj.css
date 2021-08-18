@@ -1,0 +1,10 @@
+#section10 {
+  position: relative;
+}
+
+#section10 .home_btn01 {
+  position: absolute;
+  left: 875px;
+  top: 547px;
+  cursor: pointer;
+}

@@ -1,0 +1,68 @@
+#section06 {
+  position: relative;
+}
+#section06 .video01 {
+  position: absolute;
+  height: 568px;
+  width: 1086px;
+  left: 437px;
+  top: 172px;
+  overflow: hidden;
+}
+#section06 .site_btn {
+  position: absolute;
+  right: 420px;
+  top: 100px;
+}
+/* -----------------section06 end--------------- */
+
+#section15 {
+  position: relative;
+}
+#section15 .pre_btn {
+  position: absolute;
+  left: 860px;
+  top: 442px;
+  transition: all 0.1s;
+  cursor: pointer;
+}
+
+#section15 .pre_btn:hover {
+  background-color: #009ae0;
+}
+
+#section15 .circle01 {
+  position: absolute;
+  left: 226px;
+  top: -7px;
+}
+
+#section15 .circle {
+  width: 9px;
+  height: 9px;
+  background: black;
+  border-radius: 50%;
+  transition: all 0.1s;
+}
+
+#section15 .btn:hover .circle {
+  width: 10px;
+  height: 10px;
+  background: #009ae0;
+}
+
+#section15 .next_btn {
+  position: absolute;
+  left: 886px;
+  top: 523px;
+  transition: all 0.1s;
+  cursor: pointer;
+}
+#section15 .next_btn:hover {
+  background-color: #009ae0;
+}
+#section15 .circle02 {
+  position: absolute;
+  left: 171px;
+  top: -5px;
+}

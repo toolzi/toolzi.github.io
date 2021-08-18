@@ -1,0 +1,58 @@
+#section03 {
+  position: relative;
+}
+#section03 .video01 {
+  position: absolute;
+  height: 798px;
+  width: 375px;
+  overflow: hidden;
+  left: 770px;
+  top: 88px;
+  border-radius: 50px;
+}
+#section04 {
+  position: relative;
+}
+#section04 .video02 {
+  position: absolute;
+  height: 809px;
+  width: 375px;
+  overflow: hidden;
+  left: 506px;
+  bottom: -565px;
+}
+#section06 {
+  position: relative;
+}
+#section06 .video03 {
+  position: absolute;
+  height: 798px;
+  width: 375px;
+  overflow: hidden;
+  left: 795px;
+  bottom: 93px;
+  border-radius: 50px;
+}
+#section08 {
+  position: relative;
+}
+#section08 .video04 {
+  position: absolute;
+  height: 812px;
+  width: 375px;
+  overflow: hidden;
+  left: 1040px;
+  bottom: 426px;
+}
+#section10 {
+  position: relative;
+}
+#section10 .video05 {
+  position: absolute;
+  height: 798px;
+  width: 375px;
+  overflow: hidden;
+  left: 1128px;
+  bottom: 98px;
+  border-radius: 50px;
+}
